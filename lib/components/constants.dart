@@ -1,0 +1,1 @@
+String productsDB = 'PRODUCTS_DB';
